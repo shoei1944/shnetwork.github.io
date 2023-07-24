@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://ko-fi.com/
+tourl: http://store.shnw.ru/
 ---
